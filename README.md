@@ -23,9 +23,11 @@ Summary of Expected Behavior:
 
 
 Reason for Writing the Code:
+
 	The code was writtem for the ECSE3038 Lab#4.
 
 Two Truths and a Lie:
+
 	I was born in Montego Bay.
 	I grew up in St. Ann.
 	I went to high school in St. Elizabeth.
